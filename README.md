@@ -1,5 +1,10 @@
-### Hi there 👋###
-# <i> Hello Developers, I Am JATIN PARMAR 👋 </i></u>
+
+# <i> Hello Developers, I Am JATIN PARMAR 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<br />
+ </i></u>
 Hi,I Am Jatin P.
 Here Is The Description
 
