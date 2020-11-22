@@ -68,7 +68,7 @@ Here Is The Description
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
 - ⚡️ Read my blogs at: [Jatin Parmar](https://medium.com/@parmarjatin4911)
-- 📝[Resume](https://drive.google.com/file/d/1rxZJ7bg58trACekdezY3nFmSLCpvqBS8/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/14FJa-mcOT-2pnVFXrDGRpKA3GJhpTVk_/view?usp=sharing)
 
 **Languages and Tools:**  
 
