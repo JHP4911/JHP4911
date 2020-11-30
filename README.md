@@ -16,7 +16,7 @@ Here Is The Description
 
 - 🔭 I’m currently working on <b>[SSMINFOTECHSOLUTIONPVTLTD](https://www.ssminfotech.biz/)</b>
 
-- 🌱 I’m currently learning Python , Quality Assesment & ML! <b>[Skillsanta](https://www.skillsanta.com//)</b> <br><b>                  [Hakincode](https://hakincodes.tech//)</b><b>[#Buildwithai](https://hackmakers.com/aihack//)</b>
+- 🌱 I’m currently learning Python , Quality Assesment & ML! <b>[Skillsanta](https://www.skillsanta.com//)</b><b>                  [Hakincode](https://hakincodes.tech//)</b><b> [#Buildwithai](https://hackmakers.com/aihack//)</b>
 
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 
