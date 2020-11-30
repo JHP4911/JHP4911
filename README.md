@@ -16,7 +16,7 @@ Here Is The Description
 
 - 🔭 I’m currently working on <b>[SSMINFOTECHSOLUTIONPVTLTD](https://www.ssminfotech.biz/)</b>
 
-- 🌱 I’m currently learning Python , Quality Assesment & ML,Data Sciene,Deep Learning,AI! <b><br> [Skillsanta](https://www.skillsanta.com//)</b><b> [Hakincode](https://hakincodes.tech//)</b><b> [#Buildwithai](https://hackmakers.com/aihack//)</b><b> [Dphi](https://dphi.tech//)</b> <b> [CnWizard](www.cnpack.org/showdetail.php?id=862&lang=en/)</b>
+- 🌱 I’m currently learning Python , Quality Assesment & ML,Data Sciene,Deep Learning,AI! <b><br> [#Skillsanta](https://www.skillsanta.com//)</b><b> [#Hakincode](https://hakincodes.tech//)</b><b> [#Buildwithai](https://hackmakers.com/aihack//)</b><b> [Dphi](https://dphi.tech//)</b> <b> [#CnWizard](www.cnpack.org/showdetail.php?id=862&lang=en/)</b>
 
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 
