@@ -63,7 +63,7 @@ Here Is The Description
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning MERN Stack 
+- 👨🏽‍💻 I’m currently learning Machine 🤖 learning, data science with dev ops.
 - 💬 Ask me about anything, I am happy to help
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
