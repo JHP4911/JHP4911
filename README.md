@@ -14,7 +14,7 @@ Here Is The Description
 
 - 🎓 WEB-D -Web Desing(ITI)
 
-- 🔭 I’m currently working on <b>[SSMINFOTECHSOLUTIONPVTLTD](https://www.ssminfotech.biz/)</b>
+- 🔭 I’m currently working on <b>Freelancer</b>
 
 - 🌱 I’m currently learning Python , Quality Assesment & ML,Data Sciene,Deep Learning,AI! <b><br> [#Skillsanta](https://www.skillsanta.com//)</b><b> [#Hakincode](https://hakincodes.tech//)</b><b> [#Buildwithai](https://hackmakers.com/aihack//)</b><b> [@Dphi](https://dphi.tech//)</b> <b> [#CnWizard](www.cnpack.org/showdetail.php?id=862&lang=en/)</b>
 
@@ -47,9 +47,10 @@ Here Is The Description
 - 🎃 Fun Fact: I love to Play and Computer Testing any @ML Testing Raspberrypi and arduino.
 
 # <i><u> Previous Works </i></u>
+-    I Have 2.6  years Work Experiane on <b>[SSMINFOTECHSOLUTIONPVTLTD](https://www.ssminfotech.biz/)</b>
 - 💻 Devloped <b>[Gyankunj Project.(GovtofGujarat)](https://gyankunj.gujarat.gov.in/)</b> For My City To Be Connected in School days. 
 - 🔭 I’ have 1 years work experince on <b>[IL&FS Education and Technology Services Ltd](https://www.schoolnetindia.com/)</b>
-- 🔭 I’ have 5 Years work experince on <b>[INDRASTIALTRAININGINSTITUTE(GovtofGujarat)](https://talimrojgar.gujarat.gov.in/2014/default.aspx#.X5-bpogza1s)</b>
+- 🔭 I’ have 5 Years work experince on <b>[INDRASTIALTRAININGINSTITUTE(GovtofGujarat)]         (https://talimrojgar.gujarat.gov.in/2014/default.aspx#.X5-bpogza1s)</b>
 - 🔭 I’ have 1 Years work experince on <b>[DTDCEXPRESSLTD](https://www.dtdc.in/)</b>
 - 🔭 I’ have 1 Years work experince on <b>[GSRTC](https://gsrtc.in/site/)</b>
 
