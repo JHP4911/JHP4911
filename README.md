@@ -64,7 +64,7 @@ Here Is The Description
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning MERN Stack 
+- 👨🏽‍💻 I’m currently learning ML New Research and Development. 
 - 💬 Ask me about anything, I am happy to help
 - 👨🏽‍💼 Active participant in Competitive Programming competitions
 - 🙍  Open Source Contributor
